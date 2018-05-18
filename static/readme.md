@@ -1,0 +1,1 @@
+存放静态html使用的js/css/img等文件
